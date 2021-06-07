@@ -132,7 +132,7 @@
         <dependency>
             <groupId>com.checkmarx</groupId>
             <artifactId>cx-client-common</artifactId>
-            <version>2021.1.133</version>
+            <version>2021.2.161</version>
         </dependency>
         <dependency>
             <groupId>commons-cli</groupId>
